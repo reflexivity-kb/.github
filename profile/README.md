@@ -1,6 +1,8 @@
-# Reflexivity Knowledge Base
+# Reflexivity
 
-The multilingual Reflexivity public knowledge base is published in [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs).
+## Public Knowledge Base
+
+The multilingual Reflexivity public knowledge base is available in [reflexivity-kb/docs](https://github.com/reflexivity-kb/docs).
 
 Choose a language:
 
@@ -11,4 +13,8 @@ Choose a language:
 - [繁體中文（台灣）](https://github.com/reflexivity-kb/docs/tree/main/zh-tw)
 - [繁體中文（香港）](https://github.com/reflexivity-kb/docs/tree/main/zh-hk)
 
-For general questions, contact **gtm@reflexivity.com**.
+## Client Resources
+
+[Reflexivity Client Resources](https://github.com/reflexivity-kb/client-resources) contains access-controlled material that is available only to approved users. Users without access may see a GitHub not-found page.
+
+To request access or for any other documentation inquiry, contact **jim@reflexivity.com**.
