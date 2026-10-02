@@ -4,7 +4,7 @@
 
 Choose a language once, then open the documentation you need. Restricted destinations are marked explicitly.
 
-<a id="en"></a>
+<a name="en"></a>
 ## English
 
 1. **[What is Reflexivity?](https://github.com/reflexivity-kb/platform/blob/main/en/01-what-is-reflexivity/README.md)** — authorized users only
@@ -17,7 +17,7 @@ Choose a language once, then open the documentation you need. Restricted destina
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — authorized users only
 8. **[Data](https://github.com/reflexivity-kb/data)** — authorized users only
 
-<a id="ja"></a>
+<a name="ja"></a>
 ## 日本語
 
 1. **[Reflexivityとは？](https://github.com/reflexivity-kb/platform/blob/main/ja/01-Reflexivityとは/README.md)** — 閲覧権限のあるユーザーのみ
@@ -30,7 +30,7 @@ Choose a language once, then open the documentation you need. Restricted destina
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — 閲覧権限のあるユーザーのみ
 8. **[Data](https://github.com/reflexivity-kb/data)** — 閲覧権限のあるユーザーのみ
 
-<a id="ko"></a>
+<a name="ko"></a>
 ## 한국어
 
 1. **[Reflexivity란?](https://github.com/reflexivity-kb/platform/blob/main/ko/01-Reflexivity란/README.md)** — 열람 권한이 있는 사용자만
@@ -43,7 +43,7 @@ Choose a language once, then open the documentation you need. Restricted destina
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — 열람 권한이 있는 사용자만
 8. **[Data](https://github.com/reflexivity-kb/data)** — 열람 권한이 있는 사용자만
 
-<a id="zh-cn"></a>
+<a name="zh-cn"></a>
 ## 简体中文
 
 1. **[什么是 Reflexivity？](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/01-什么是Reflexivity/README.md)** — 仅限有访问权限的用户
@@ -56,7 +56,7 @@ Choose a language once, then open the documentation you need. Restricted destina
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — 仅限有访问权限的用户
 8. **[Data](https://github.com/reflexivity-kb/data)** — 仅限有访问权限的用户
 
-<a id="zh-tw"></a>
+<a name="zh-tw"></a>
 ## 繁體中文（台灣）
 
 1. **[什麼是 Reflexivity？](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/01-什麼是Reflexivity/README.md)** — 僅限有存取權限的使用者
@@ -69,7 +69,7 @@ Choose a language once, then open the documentation you need. Restricted destina
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — 僅限有存取權限的使用者
 8. **[Data](https://github.com/reflexivity-kb/data)** — 僅限有存取權限的使用者
 
-<a id="zh-hk"></a>
+<a name="zh-hk"></a>
 ## 繁體中文（香港）
 
 1. **[什麼是 Reflexivity？](https://github.com/reflexivity-kb/platform/blob/main/zh-hk/01-什麼是Reflexivity/README.md)** — 只限有存取權限的使用者
