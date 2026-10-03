@@ -15,6 +15,7 @@ Select your preferred language to display the documentation menu in that languag
 6. **[Articles](https://github.com/reflexivity-kb/docs/blob/main/en/06-articles/README.md)** — public
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — authorized users only
 8. **[Data](https://github.com/reflexivity-kb/data)** — authorized users only
+9. **[FAQ](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/faq/README.md)** — authorized users only
 
 > Restricted repositories may appear as “not found” if your GitHub account does not have access.
 
