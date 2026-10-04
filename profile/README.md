@@ -33,7 +33,7 @@ With 244 English documents, you do not need to browse the knowledge base one pag
 6. **[Articles](https://github.com/reflexivity-kb/docs/blob/main/en/06-articles/README.md)** — public
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — authorized users only
 8. **[Data](https://github.com/reflexivity-kb/data)** — authorized users only
-9. **[FAQ](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/faq/README.md)** — authorized users only
+9. **[FAQ](https://github.com/reflexivity-kb/docs/blob/main/en/07-FAQ/README.md)** — public
 
 > Restricted repositories may appear as “not found” if your GitHub account does not have access.
 
