@@ -4,6 +4,24 @@
 
 Select your preferred language to display the documentation menu in that language.
 
+## Documentation coverage
+
+Current English customer-facing leaf-document count as of **2026-10-04**. Navigation/index pages are not included.
+
+| Repository | English documents | Access |
+| --- | ---: | --- |
+| [Public Knowledge Base](https://github.com/reflexivity-kb/docs) | **84** | Public |
+| [Platform](https://github.com/reflexivity-kb/platform) | **142** | Authorized users only |
+| [Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph) | **15** | Authorized users only |
+| [Data](https://github.com/reflexivity-kb/data) | **3** | Authorized users only |
+| **Total** | **244** | |
+
+The Platform count includes **76 Technical Reference** leaf pages.
+
+With 244 English documents, you do not need to browse the knowledge base one page at a time. If you use an LLM application, we recommend connecting that application to the **Reflexivity service via MCP** and using the documentation as supporting reference when needed. This connects the Reflexivity research service; it does **not** connect the knowledge-base repository itself.
+
+[Set up AI Connections and choose your LLM application](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/technical-reference/11-ai-connections/README.md) — authorized users only.
+
 ## English
 
 1. **[What is Reflexivity?](https://github.com/reflexivity-kb/platform/blob/main/en/01-what-is-reflexivity/README.md)** — authorized users only
